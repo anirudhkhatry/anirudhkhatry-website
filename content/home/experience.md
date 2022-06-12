@@ -39,7 +39,7 @@ experience:
   - title: Machine Learning Intern
     company: Human Rights First
     company_url: 'https://www.humanrightsfirst.org'
-    company_logo: hrf
+    company_logo: 
     location: Remote
     date_start: '2021-05-01'
     date_end: '2021-7-19'
