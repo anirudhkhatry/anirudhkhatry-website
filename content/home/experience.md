@@ -29,7 +29,7 @@ experience:
     location: India
     date_start: '2021-07-19'
     date_end: ''
-    description: >-
+    description: |5-
       * Closely working with Microsoft Edge team for web-based data extraction tasks to improve product purchasing experience.
       * Employing techniques to combat low-resource name entity recognition tasks by employing ML and program synthesis techniques
       * Devised LRSyn, a state-of-the-art interpretable data extraction framework, robust to version changes in data.
