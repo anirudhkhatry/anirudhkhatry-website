@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://coursera.org/share/c87bced453782be7e885028177cc594a
     date_end: ''
     date_start: '2021-01-25'
     description: ''
@@ -31,22 +31,30 @@ item:
     organization_url: https://www.coursera.org
     title: Neural Networks and Deep Learning
     url: ''
-  - certificate_url: https://www.edx.org
+  - certificate_url: https://coursera.org/share/80d805413641b130a59aab1328ff1048
     date_end: ''
     date_start: '2021-01-01'
     description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
+    organization: Coursera
+    organization_url: https://www.coursera.org
     title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+    url: 
+  - certificate_url: https://coursera.org/share/5643930f79b9a3567d8d7937a4ce6a96
+    date_end: '2021-02-21'
+    date_start: '2021-01-01'
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: 'Fundamentals of Reinforcement Learning'
     url: ''
+  -certificate_url: 
+    date_end: '2021-06-01'
+    date_start: '2021-01-01'
+    description: ''
+    organization: IBM
+    organization_url: 
+    title: 'Introduction to Quantum Computing'
+    url: 'https://www.ibm.com/quantum?utm_content=SRCWW&p1=Search&p4=43700071568483425&p5=p&gclid=CjwKCAjwnZaVBhA6EiwAVVyv9Dc1OBjAHqQMlJcGfocqP-WyEamN-bDk3F2znG16tTZ0XhxvXagEvRoCfBoQAvD_BwE&gclsrc=aw.ds'
 
 design:
   columns: '2'

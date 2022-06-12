@@ -38,7 +38,7 @@ experience:
       
       * Spearheaded the clustering and landmark detection tasks, and developed a novel fingerprinting technique for images.
       
-      * Successfully published our research paper titled “Landmarks and Regions: A Robust Approach to Data Extraction” at PLDI 2022, San Diego.
+      * Successfully published our research paper titled “Landmarks and Regions: A Robust Approach to Data Extraction” at the Conference on Programming Languages Design and Implementation 2022, San Diego.
 
   - title: Machine Learning Intern
     company: Human Rights First
@@ -49,8 +49,10 @@ experience:
     date_end: '2021-07-01'
     description: >-
      * Collaborated with 30 changemakers to develop a war-crime detection tool using social media channels.
+     
      * Fine-tuned a distil-RoBERTa model for binary classification of war crimes
-     * Spearheaded the development of a novel two stage prediction pipeline for multilabel classification of warcrimes.
+     
+     * Spearheaded the development of a novel two stage prediction pipeline for multi-label classification of warcrimes.
 
   - title: Research Intern
     company: Samsung Research and Development Institute, India
@@ -61,7 +63,9 @@ experience:
     date_end: '2020-07-01'
     description: >-
      * Worked with the On-Device AI team to improve system performance using Reinforcement Learning.
+     
      * Built a State-Of-The-Art Multi-Agent Deep Q-network leveraging prioritized experience replay(PER) and time-bound dynamic reward functions
+     
      * Designed a landmark agent simulation environment to show proof of concept.
   
   - title: Programming Analyst Intern
@@ -73,7 +77,9 @@ experience:
     date_end: '2019-07-01'
     description: >-
      * Coordinated with the product development team to build an ERP application for manufacturing and service-based industries. 
+     
      * Employed JavaFX for the development of the application and MySQL for database management.
+     
      * Followed an agile based product development life cycle with constant interaction with key product owners.
 design:
   columns: '2'
