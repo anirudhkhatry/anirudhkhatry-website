@@ -66,4 +66,6 @@ highlight_name: true
 
 Anirudh Khatry is currently working as a research intern at Microsoft Research, Bangalore, India. He primarily works on Document AI techniques using Program Synthesis and Machine Learning. Anirudh has a bachelor's degree from Veermata Jijabai Technological Institute (V.J.T.I) in Information Technology.
 
+Outside of work Anirudh enjoys playing the guitar and listening to songs.
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
