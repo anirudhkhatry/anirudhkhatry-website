@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Slides
 summary: An introduction to using Wowchemy's Slides feature.
 authors: []
@@ -166,4 +166,4 @@ Create `assets/css/reveal_custom.css` with:
 
 [Ask](https://github.com/wowchemy/wowchemy-hugo-modules/discussions)
 
-[Documentation](https://wowchemy.com/docs/managing-content/#create-slides)
+[Documentation](https://wowchemy.com/docs/managing-content/#create-slides) -->
