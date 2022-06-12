@@ -63,7 +63,7 @@ experience:
   - title: Programming Analyst Intern
     company: Pexabyte Technology Solutions Pvt. Ltd.
     company_url: 'http://www.pexabyte.com'
-    company_logo: hrf
+    company_logo: pexabyte
     location: Remote
     date_start: '2019-05-01'
     date_end: '2019-7-01'
