@@ -25,7 +25,7 @@ experience:
   - title: Research Intern
     company: Microsoft Research
     company_url: 'https://www.microsoft.com/en-us/research/'
-    company_logo: org-gc
+    company_logo: Microsoft_logo
     location: India
     date_start: '2021-07-19'
     date_end: ''
