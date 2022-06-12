@@ -34,7 +34,7 @@ item:
   - certificate_url: https://coursera.org/share/80d805413641b130a59aab1328ff1048
     date_end: ''
     date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
+    description: 
     organization: Coursera
     organization_url: https://www.coursera.org
     title: Blockchain Fundamentals
@@ -47,7 +47,7 @@ item:
     organization_url: https://www.coursera.org
     title: 'Fundamentals of Reinforcement Learning'
     url: ''
-  -certificate_url: 
+  - certificate_url: 
     date_end: '2021-06-01'
     date_start: '2021-01-01'
     description: ''
