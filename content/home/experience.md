@@ -42,7 +42,7 @@ experience:
     company_logo: 
     location: Remote
     date_start: '2021-05-01'
-    date_end: '2021-7-19'
+    date_end: '2021-07-01'
     description: >-
      * Collaborated with 30 changemakers to develop a war-crime detection tool using social media channels.
      * Fine-tuned a distil-RoBERTa model for binary classification of war crimes
@@ -54,7 +54,7 @@ experience:
     company_logo: samsung
     location: Remote
     date_start: '2020-05-01'
-    date_end: '2020-7-01'
+    date_end: '2020-07-01'
     description: >-
      * Worked with the On-Device AI team to improve system performance using Reinforcement Learning.
      * Built a State-Of-The-Art Multi-Agent Deep Q-network leveraging prioritized experience replay(PER) and time-bound dynamic reward functions
@@ -66,7 +66,7 @@ experience:
     company_logo: pexabyte
     location: Remote
     date_start: '2019-05-01'
-    date_end: '2019-7-01'
+    date_end: '2019-07-01'
     description: >-
      * Coordinated with the product development team to build an ERP application for manufacturing and service-based industries. 
      * Employed JavaFX for the development of the application and MySQL for database management.
