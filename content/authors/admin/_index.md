@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: B.Tech. in Information Technology.
+    - course: B.Tech. in Information Technology
       institution: Veermata Jijabai Technological Institute, India.
       year: 2021
 
