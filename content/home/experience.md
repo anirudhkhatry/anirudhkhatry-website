@@ -36,14 +36,41 @@ experience:
         * Modelling
         * Deploying
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Machine Learning Intern
+    company: Human Rights First
+    company_url: 'https://www.humanrightsfirst.org'
+    company_logo: hrf
+    location: Remote
+    date_start: '2021-05-01'
+    date_end: '2021-7-19'
+    description: |2-
+     * Collaborated with 30 changemakers to develop a war-crime detection tool using social media channels.
+     * Fine-tuned a distil-RoBERTa model for binary classification of war crimes
+     * Spearheaded the development of a novel two stage prediction pipeline for multilabel classification of warcrimes.
+
+  - title: Research Intern
+    company: Samsung Research and Development Institute, India
+    company_url: 'https://research.samsung.com'
+    company_logo: samsung
+    location: Remote
+    date_start: '2021-05-01'
+    date_end: '2021-7-19'
+    description: |2-
+     * Worked with the On-Device AI team to improve system performance using Reinforcement Learning.
+     * Built a State-Of-The-Art Multi-Agent Deep Q-network leveraging prioritized experience replay(PER) and time-bound dynamic reward functions
+     * Designed a landmark agent simulation environment to show proof of concept.
+  
+  - title: Machine Learning Intern
+    company: Human Rights First
+    company_url: 'https://www.humanrightsfirst.org'
+    company_logo: hrf
+    location: Remote
+    date_start: '2021-05-01'
+    date_end: '2021-7-19'
+    description: |2-
+     * Collaborated with 30 changemakers to develop a war-crime detection tool using social media channels.
+     * Fine-tuned a distil-RoBERTa model for binary classification of war crimes
+     * Spearheaded the development of a novel two stage prediction pipeline for multilabel classification of warcrimes.
 
 design:
   columns: '2'
