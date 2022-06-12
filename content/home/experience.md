@@ -29,11 +29,15 @@ experience:
     location: India
     date_start: '2021-07-19'
     date_end: ''
-    description: |5-
+    description: >-
       * Closely working with Microsoft Edge team for web-based data extraction tasks to improve product purchasing experience.
+      
       * Employing techniques to combat low-resource name entity recognition tasks by employing ML and program synthesis techniques
+      
       * Devised LRSyn, a state-of-the-art interpretable data extraction framework, robust to version changes in data.
+      
       * Spearheaded the clustering and landmark detection tasks, and developed a novel fingerprinting technique for images.
+      
       * Successfully published our research paper titled “Landmarks and Regions: A Robust Approach to Data Extraction” at PLDI 2022, San Diego.
 
   - title: Machine Learning Intern
