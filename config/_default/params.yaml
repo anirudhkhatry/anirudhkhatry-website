@@ -17,7 +17,7 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
+    org_name: 'Netlify'
     description: 'Anirudh Khatry's website'
     twitter: 'anirudhkhatry'
   analytics:
