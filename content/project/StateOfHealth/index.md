@@ -1,6 +1,6 @@
 ---
-title: Prediction of Remaining Useful Life and State of Health of Li-ion Battery using SVM with Particle Filters.
-summary: Estimating R.U.L. and S.O.H. of Li-ion battery using the NASA dataset on Li-ion charging and discharging
+title: S.O.H. and R.U.L. of Li-ion Battery using Particle Filter.
+summary: Estimating Remaining Useful Life and State of Health of Li-ion battery using the NASA dataset on Li-ion charging and discharging.
 tags:
   - Machine Learning
 date: '2016-04-27T00:00:00Z'
