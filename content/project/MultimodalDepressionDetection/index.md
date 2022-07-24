@@ -1,6 +1,6 @@
 ---
 title: Multimodal Detection of Depression
-summary: An example of using the in-built project page.
+summary: Final Year Thesis on Depression Detection using multimodal techniques.
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
