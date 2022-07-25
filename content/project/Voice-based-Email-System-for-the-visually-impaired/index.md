@@ -1,6 +1,6 @@
 ---
 title: Email for the Visually Impaired.
-summary: Voice guided system for the Visually Imapired.
+summary: Voice guided system for the Visually Impaired.
 tags:
   - HCI
 date: '2016-04-27T00:00:00Z'
