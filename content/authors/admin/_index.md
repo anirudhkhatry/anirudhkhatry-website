@@ -48,7 +48,7 @@ social:
     link: https://github.com/anirudhkhatry
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/anirudhkhatry
+    link: https://www.linkedin.com/in/anirudh-khatry/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
