@@ -25,7 +25,7 @@ content:
       captcha: true
 
   # Contact details (edit or remove options as required)
-  email: anirudhkhatry@gmail.com
+  email: anirudhkhatry[at]gmail.com
   phone: 
   address:
     street: 
