@@ -6,7 +6,7 @@ title: Anirudh Khatry
 superuser: true
 
 # Role/position/tagline
-role: Research Intern at Microsoft Research,India
+role: Research Fellow at Microsoft PROSE
 
 # Organizations/Affiliations to show in About widget
 organizations:
