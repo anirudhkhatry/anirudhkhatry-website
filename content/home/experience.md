@@ -27,8 +27,19 @@ experience:
     company_url: 'https://www.microsoft.com/en-us/research/'
     company_logo: microsoft
     location: India
-    date_start: '2021-07-19'
+    date_start: '2022-08-16'
     date_end: ''
+    description: >-
+      * Working on Data Wrangling Techniques      
+    
+    
+  - title: Research Intern
+    company: Microsoft Research
+    company_url: 'https://www.microsoft.com/en-us/research/'
+    company_logo: microsoftResearch
+    location: India
+    date_start: '2021-07-19'
+    date_end: '2022-08-05'
     description: >-
       * Closely working with Microsoft Edge team for web-based data extraction tasks to improve product purchasing experience.
       

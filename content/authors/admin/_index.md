@@ -64,7 +64,7 @@ social:
 highlight_name: true
 ---
 
-Anirudh is currently working as a research intern at Microsoft Research, Bangalore, India. He primarily works on Document AI techniques using Program Synthesis and Machine Learning. Anirudh is primarily advised by Mr. Suresh Parthasarathy and Dr. Arun Iyer at Microsoft Research. He has a bachelor's degree from Veermata Jijabai Technological Institute (V.J.T.I) in Information Technology.
+Anirudh is working as a Pre-doctoral Research Fellow with Microsoft PROSE(PROgram Synthesis using Examples) team based out of Redmond. He primarily works on Document AI techniques using Program Synthesis and Machine Learning. Anirudh is primarily advised by Dr. Mohammad Raza at Microsoft. He has a bachelor's degree from Veermata Jijabai Technological Institute (V.J.T.I) in Information Technology.
 
 Outside of work Anirudh enjoys playing the guitar and listening to songs.
 
