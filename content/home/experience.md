@@ -23,10 +23,10 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Pre-doctoal Research Fellow
-    company: Microsoft Research
+    company: Microsoft
     company_url: 'https://www.microsoft.com/en-us/research/group/prose/'
     company_logo: microsoft
-    location: India
+    location: Redmond
     date_start: '2022-08-16'
     date_end: ''
     description: >-
