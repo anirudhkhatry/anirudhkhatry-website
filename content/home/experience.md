@@ -30,7 +30,7 @@ experience:
     date_start: '2022-08-16'
     date_end: ''
     description: >-
-      * Working on Data Wrangling Techniques      
+      * Working on incorporation of Natural Language intent into Microsoft products.  
     
 
   - title: Research Intern
@@ -41,13 +41,15 @@ experience:
     date_start: '2021-07-19'
     date_end: '2022-08-05'
     description: >-
-      * Closely working with Microsoft Edge team for web-based data extraction tasks to improve product purchasing experience.
+      * Collaborated with Microsoft Edge team for web-based data extraction tasks to improve product purchasing experience.
+
+      * Successfully automated invoice data extraction tasks for the Microsoft IDC Finance team, to improve productivity.
       
-      * Employing techniques to combat low-resource name entity recognition tasks by employing ML and program synthesis techniques
+      * Employed techniques to combat low-resource name entity recognition tasks by employing ML and program synthesis techniques.
       
-      * Devised LRSyn, a state-of-the-art interpretable data extraction framework, robust to version changes in data.
+      * Devised Landmark-based Robust Synthesis (LRSyn), a state-of-the-art interpretable data extraction framework, robust to version changes in data.
       
-      * Spearheaded the clustering and landmark detection tasks, and developed a novel fingerprinting technique for images.
+      * Spearheaded the clustering and landmark detection tasks during the development of LRSyn, and developed a novel fingerprinting technique for images.
       
       * Successfully published our research paper titled “Landmarks and Regions: A Robust Approach to Data Extraction” at the Conference on Programming Languages Design and Implementation 2022, San Diego.
 
