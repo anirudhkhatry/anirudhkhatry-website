@@ -7,7 +7,7 @@ summary: Your excitement about a particular topic as early as your school days a
 image:
   caption: 'The PROSE team'
   focal_point: ''
-  placement: 2
+  placement: 1
   preview_only: false
 
 ---
