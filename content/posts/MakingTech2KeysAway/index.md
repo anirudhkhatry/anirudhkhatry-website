@@ -4,11 +4,11 @@ subtitle: My journey till here and what lies beyond.
 
 summary: Your excitement about a particular topic as early as your school days and your passion for learning can lead you to a setting where you can make valuable contributions to advance that frontier.
 
-# image:
-#   caption: ''
-#   focal_point: ''
-#   placement: 2
-#   preview_only: false
+image:
+  caption: 'The PROSE team'
+  focal_point: ''
+  placement: 2
+  preview_only: false
 
 ---
 
