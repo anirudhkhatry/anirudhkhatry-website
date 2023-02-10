@@ -9,7 +9,7 @@ date: '2016-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Li-ion battery
+  caption: Email System for the Visually impaired
   focal_point: Smart
 
 links:
