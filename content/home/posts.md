@@ -23,4 +23,8 @@ content:
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
+
+design:
+  # Choose how many columns the section has. Valid values: '1' or '2'.
+  columns: '2'
 ---
