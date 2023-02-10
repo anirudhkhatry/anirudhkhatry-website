@@ -30,7 +30,7 @@ experience:
     date_start: '2022-08-16'
     date_end: ''
     description: >-
-      * Working on incorporation of Natural Language intent into Microsoft products.  
+      * Working on incorporation of Natural Language intent into Microsoft products.
     
 
   - title: Research Intern
@@ -43,7 +43,7 @@ experience:
     description: >-
       * Collaborated with Microsoft Edge team for web-based data extraction tasks to improve product purchasing experience.
 
-      * Successfully automated invoice data extraction tasks for the Microsoft IDC Finance team, to improve productivity.
+      * Successfully automated invoice data extraction tasks for the Microsoft IDC Finance team to improve productivity.
       
       * Employed techniques to combat low-resource name entity recognition tasks by employing ML and program synthesis techniques.
       
