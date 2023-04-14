@@ -10,14 +10,15 @@ role: Research Fellow at Microsoft PROSE
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Veermata Jijabai Technological Institute
-    url: https://vjti.ac.in
+  - name: Microsoft
+    url: https://www.microsoft.com/en-us/research/group/prose/interns-research-fellows/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Program Synthesis, Formal Verification and Machine Learning.
 
 # Interests to show in About widget
 interests:
+  - AI4Code
   - Artificial Intelligence
   - Information Retrieval
   - Program Synthesis
@@ -64,7 +65,7 @@ social:
 highlight_name: true
 ---
 
-Anirudh is a Pre-doctoral Research Fellow at Microsoft, working with the PROSE (PROgram Synthesis using Examples) team, based out of Redmond. He primarily works on data wranging techniques using neuro-symbolic approaches. Anirudh is primarily advised by Dr. Mohammad Raza at Microsoft. He has a bachelor's degree from Veermata Jijabai Technological Institute (V.J.T.I) in Information Technology.
+Anirudh is a Pre-doctoral Research Fellow at Microsoft, working with the PROSE (PROgram Synthesis using Examples) team, based out of Redmond. He primarily works on data wranging techniques using neuro-symbolic approaches. Anirudh is primarily advised by Dr. Vu Le and Dr. Mohammad Raza at Microsoft. He has a bachelor's degree from Veermata Jijabai Technological Institute (V.J.T.I) in Information Technology.
 
 Outside of work, Anirudh enjoys playing the guitar and listening to songs.
 
