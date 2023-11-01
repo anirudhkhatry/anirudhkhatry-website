@@ -1,5 +1,5 @@
 ---
-title: 'TSTR: Target Similarity Tuning in the Real World'
+title: 'TSTR: Target Similarity Tuning Meets the Real World'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
