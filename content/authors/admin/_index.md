@@ -65,7 +65,7 @@ social:
 highlight_name: true
 ---
 
-Anirudh is a Pre-doctoral Research Fellow at Microsoft, working with the [PROSE (Program Synthesis)](https://www.microsoft.com/en-us/research/group/prose/) team, based out of Redmond. He primarily works on data wranging techniques using neuro-symbolic approaches. Anirudh is primarily advised by [Dr. Vu Le](https://www.microsoft.com/en-us/research/people/levu/) and [Dr. Sumit Gulwani](https://www.microsoft.com/en-us/research/people/sumitg/) at Microsoft. He has a bachelor's degree from [Veermata Jijabai Technological Institute (V.J.T.I.)](https://vjti.ac.in) in Information Technology.
+Anirudh is a Pre-doctoral Research Fellow at Microsoft, working with the [PROSE (Program Synthesis)](https://www.microsoft.com/en-us/research/group/prose/) team, based out of Redmond. He primarily works on data wranging techniques using neuro-symbolic approaches. Anirudh is primarily advised by [Dr. Ashish Tiwari](https://www.microsoft.com/en-us/research/people/astiwar/), [Dr. Sumit Gulwani](https://www.microsoft.com/en-us/research/people/sumitg/) and [Dr. Vu Le](https://www.microsoft.com/en-us/research/people/levu/) at Microsoft. He has a bachelor's degree from [Veermata Jijabai Technological Institute (V.J.T.I.)](https://vjti.ac.in) in Information Technology.
 
 Outside of work, Anirudh enjoys playing the guitar and listening to songs.
 
