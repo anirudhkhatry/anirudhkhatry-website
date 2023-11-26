@@ -9,7 +9,6 @@ active = true  # Activate this widget? true/false
 weight = 2  # Order that this section will appear.
 
 title = "Recent News"
-subtitle = "[All news>>](/news)"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -50,4 +49,6 @@ subtitle = "[All news>>](/news)"
  css_class = ""
 +++
 
-{{< readfromfile "/content/newslist.dat" 5 >}} 
+**[05/12/23]** I will be attending EMNLP, 2023!
+**[08/10/23]** [TSTR: Target Similarity Tuning meets the Real World]() is accepted in EMNLP-Findings, 2023.
+**[10/3/22]** My first publication titled - [Landmarks and Regions: A Robust Approach to Data Extraction]() is accepted to PLDI, 2022!
