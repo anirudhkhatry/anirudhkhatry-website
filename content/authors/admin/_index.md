@@ -69,4 +69,4 @@ Anirudh is a Pre-doctoral Research Fellow at Microsoft, working with the [PROSE 
 
 Outside of work, Anirudh enjoys playing the guitar and listening to songs.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Anirudh_Khatry_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
