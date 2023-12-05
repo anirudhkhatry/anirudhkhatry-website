@@ -69,7 +69,7 @@ Anirudh is a Pre-doctoral Research Fellow at Microsoft, working with the [PROSE 
 
 Outside of work, Anirudh enjoys playing the guitar and listening to songs.
 
-** __I am applying for PhD for the Fall '24 cycle!__ **
+** __I am applying for PhD for the Fall '24 cycle!__ ** :mortar_board:
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Anirudh_Khatry_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
