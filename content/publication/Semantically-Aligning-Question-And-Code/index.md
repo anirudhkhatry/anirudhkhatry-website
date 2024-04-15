@@ -1,5 +1,5 @@
 ---
-title: 'Semantically Aligned Question and Code Generation for Automated Insight Generation'
+title: 'Semantically Aligned Question and Code Generation for Automated Insight Generation (Best Paper Award)'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
