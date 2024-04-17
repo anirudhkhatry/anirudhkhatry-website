@@ -33,8 +33,8 @@ doi: ''
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-#publication: In *Internation Conference on Programming Language Design and Implementation, 2022*
-#publication_short: In *PLDI'22*
+publication: In *LLM4Code Workshop at International Conference on Software Engineering*
+publication_short: In *LLM4Code, ICSE '24*
 
 abstract: Automated insight generation is a common tactic for helping knowledge workers, such as data scientists, to quickly understand the potential value of new and unfamiliar data. Unfortunately, automated insights produced by large-language models can generate code that does not correctly correspond or align to the insight. In this paper, we leverage the semantic knowledge of large language models to generate targeted and insightful questions about data and the corresponding code to answer those questions. Then through an empirical study on data from Open-WikiTable, we show that embeddings can be effectively used for filtering out semantically unaligned pairs of question and code. Additionally, we found that generating questions and code together yields more diverse questions.
 
