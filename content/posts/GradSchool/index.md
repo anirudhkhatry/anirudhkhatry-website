@@ -14,7 +14,7 @@ To paraphrase Sheldon Cooper -
 
 But, I will thank them personally and that is not why I am here. I am here to put down some post 12am thoughts on the realization that just dawned on me. To give you some more context - everything that I have been seeing, after applying for grad school and getting my admits takes me back to the decision for: 1. Going for grad school and 2. Making the right decision. For instance, I was watching Young Sheldon (look at me being a tbbt nerd) where Sheldon has to make the right decision towards joining the right school. He comes up with a scoring algorithm for evaluating which one is the best for him, and is stymied when he realizes that 2 schools (I am not giving any spoliers) are exactly getting the same scores. 
 
-When I was deciding between grad schools, I was often told that - *there are no wrong decisions* and I feel I hadn't truely understood the meaning of it till now. Well what I have understood now is - 
+When I was deciding between grad schools, I was often told that - *there are no wrong choices* and I feel I hadn't truely understood the meaning of it till now. Well what I have understood now is - 
 
 "*Being happy with your decision is not a consequence of the decision but rather the acceptance of the decision.*"
 
