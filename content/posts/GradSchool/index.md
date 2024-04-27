@@ -16,7 +16,7 @@ But, I will thank them personally and that is not why I am here. I am here to pu
 
 When I was deciding between grad schools, I was often told that - *there are no wrong choices* and I feel I hadn't truely understood the meaning of it till now. Well what I have understood now is - 
 
-"*Being happy with your decision is not a consequence of the decision but rather the acceptance of the decision.*"
+"*Being happy with your decision is not a consequence of the decision, but rather the acceptance of the decision.*"
 
 What this means is that as humans we often tend to defend our choices; justify why we made a certain decision. This is not done to convince the other person but rather to make ourselves feel better about the choices we have made. We only stop doing this once we accept that the choice we made was the best one (or do we never stop :P).
 
