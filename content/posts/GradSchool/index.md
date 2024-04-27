@@ -6,7 +6,7 @@ summary: Being happy with your decision is not a consequence of the decision but
 
 ---
 
-I would be amiss if I didn't be grateful for all the people who played a role in getting me to where I am today. 
+I would be amiss if I wasn't grateful for all the people who played a role in getting me to where I am today. 
 
 To paraphrase Sheldon Cooper - 
 
