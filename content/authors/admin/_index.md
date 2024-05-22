@@ -26,6 +26,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: Ph.D. in Computer Science
+      institution: University of Texas at Austin.
+      year: 2024 - present
     - course: B.Tech. in Information Technology
       institution: Veermata Jijabai Technological Institute, India.
       year: 2021
