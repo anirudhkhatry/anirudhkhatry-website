@@ -55,7 +55,7 @@ url_pdf: 'https://arxiv.org/abs/2310.17228'
 # url_project: ''
 # url_slides: ''
 # url_source: ''
-# url_video: ''
+url_video: 'https://www.microsoft.com/en-us/research/video/tstr-target-similarity-tuning-meets-the-real-world/'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
