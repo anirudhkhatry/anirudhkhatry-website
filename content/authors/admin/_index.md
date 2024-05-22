@@ -28,10 +28,10 @@ education:
   courses:
     - course: Ph.D. in Computer Science
       institution: University of Texas at Austin.
-      year: 2024 - present
+      year: started 2024.
     - course: B.Tech. in Information Technology
       institution: Veermata Jijabai Technological Institute, India.
-      year: 2021
+      year: 2017-2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
