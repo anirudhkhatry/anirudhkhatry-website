@@ -28,9 +28,13 @@ experience:
     company_logo: microsoft
     location: Redmond
     date_start: '2022-08-16'
-    date_end: ''
+    date_end: '2024-06-30'
     description: >-
-      * Working on incorporation of Natural Language intent into Microsoft products.
+      * Conceptualized and built the natural language to code feature for the Power Query M language, used for wrangling tables in Excel, Fabric and PowerBI.
+      * Collaborated towards building the Copilot experience as a part of the Power Query experience in Fabric and Excel.
+      * Devised two state-of-the-art strategies TSTR (EMNLP-Findings 2023) and COOPER (Under submission to ASE 2024) for optimal dynamic prompt construction aiding in-context learning for natural language to code tasks.
+      * Developed Alternate Task Technique (ATT) (Under submission COLM, 2024), a generalized framework to post-process LLM outputs using alternate tasks that improved performance on low resource languages, like Power Query M, by 13%.
+      * Developed Adapted Dense Retrieval (ADDER) (Submitted to CIKM, 2024) framework for Information Retrieval tasks using dense embedding for efficient code retrieval in low-resource settings.
     
 
   - title: Research Intern
